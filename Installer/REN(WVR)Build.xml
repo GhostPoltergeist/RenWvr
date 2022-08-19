@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\ZXZ\Desktop\REN(WVR).jar</jar>
+  <outfile>C:\Users\ZXZ\Desktop\REN(WVR).exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>high</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\ZXZ\Desktop\pngwing.com.ico</icon>
+  <singleInstance>
+    <mutexName>REN(WVR)</mutexName>
+    <windowTitle>REN(WVR)</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>0.17</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.1.0.0</fileVersion>
+    <txtFileVersion>REN(WVR)</txtFileVersion>
+    <fileDescription>REN(WVR)</fileDescription>
+    <copyright>@GhostPoltergeist(c)2022</copyright>
+    <productVersion>0.1.0.0</productVersion>
+    <txtProductVersion>REN(WVR)</txtProductVersion>
+    <productName>REN(WVR)</productName>
+    <companyName></companyName>
+    <internalName>REN(WVR)</internalName>
+    <originalFilename>REN(WVR).exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
