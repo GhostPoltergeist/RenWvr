@@ -1,14 +1,14 @@
-<!-- Improved & Read Documentation to top link: See: https://ghostpoltergeist.github.io/REN-WVR -->
+<!-- Improved & Read Documentation to top link: See: https://ghostpoltergeist.github.io/RenWvr -->
 <a name="Documentation"></a>
-![Forks](https://img.shields.io/github/forks/GhostPoltergeist/REN-WVR?style=for-the-badge)
-![Stargazers](https://img.shields.io/github/stars/GhostPoltergeist/REN-WVR?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/GhostPoltergeist/REN-WVR?style=for-the-badge)
-![GPL3 License](https://img.shields.io/github/license/GhostPoltergeist/REN-WVR?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/GhostPoltergeist/RenWvr?style=for-the-badge)
+![Stargazers](https://img.shields.io/github/stars/GhostPoltergeist/RenWvr?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/GhostPoltergeist/RenWvr?style=for-the-badge)
+![GPL3 License](https://img.shields.io/github/license/GhostPoltergeist/RenWvr?style=for-the-badge)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/GhostPoltergeist/REN-WVR)">
+  <a href="https://github.com/GhostPoltergeist/RenWvr)">
     <img src="https://iili.io/UN6gGj.md.png" alt="Logo" width="400" height="450">
   </a>
 <h3 align="center">REN(WVR) | Encryption Algorithm</h3>
@@ -19,14 +19,14 @@
     it is mathematical process used to encrypt data is called an encryption algorithm. Information is encoded into cipher text using an algorithm and a key
     and it takes the usage of a "key" to restore the data to its original form.
     <br />
-    <a href="https://ghostpoltergeist.github.io/REN-WVR"><strong>Explore the Docs »</strong></a>
+    <a href="https://ghostpoltergeist.github.io/RenWvr"><strong>Explore the Docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GhostPoltergeist/REN-WVR">View Demo | </a>
+    <a href="https://github.com/GhostPoltergeist/RenWvr">View Demo | </a>
     ·
-    <a href="https://github.com/GhostPoltergeist/REN-WVR/issues">Report Bug |</a>
+    <a href="https://github.com/GhostPoltergeist/RenWvr/issues">Report Bug |</a>
     ·
-    <a href="https://github.com/GhostPoltergeist/REN-WVR/issues">Request Feature </a>
+    <a href="https://github.com/GhostPoltergeist/RenWvr/issues">Request Feature </a>
   </p>
 </div>
 
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project Process
 <div align="center">
-  <a href="https://github.com/GhostPoltergeist/REN-WVR)">
+  <a href="https://github.com/GhostPoltergeist/RenWvr)">
     <img src="https://iili.io/UNiDrv.md.png" alt="Logo">
   </a>
 </div>
@@ -113,7 +113,7 @@ OTHER NOTES
 
 Run through windows(.exe) File and Follow the Instructions
 
-_For more Information, please refer to the [Documentation](https://ghostpoltergeist.github.io/REN-WVR)_
+_For more Information, please refer to the [Documentation](https://ghostpoltergeist.github.io/RenWvr)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +125,7 @@ _For more Information, please refer to the [Documentation](https://ghostpolterge
 - [ ] Fully Customize Encryption with Unlimited Integer Range of Values
     - [ ] and etc.
 
-See the [open issues](https://github.com/GhostPoltergeist/REN-WVR/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/GhostPoltergeist/RenWvr/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,6 +158,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [REN-(WVR)](https://github.com/GhostPoltergeist/REN-WVR)
+Project Link: [REN-(WVR)](https://github.com/GhostPoltergeist/RenWvr)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
